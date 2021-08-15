@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torben Ishii</h1>
-<h3 align="center">Gratuated in Telecommunications Engineering and currently student of Full Stack Developer</h3>
+<h3 align="center">Gratuated in Telecommunications Engineering and currently student in Full Stack Developer</h3>
 
  <div>
   <a href="https://github.com/torbenish">
