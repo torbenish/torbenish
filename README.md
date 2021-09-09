@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/torbenish">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torbenish&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbenish&layout=compact&langs_count=&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbenish&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
  
 <div style="display: inline_block"><br>
