@@ -10,7 +10,7 @@
   <a href="https://github.com/torbenish">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torbenish&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbenish&layout=compact&langs_count=6&theme=github_dark"/>
-   </tr>
+  </tr>
 </div>
  
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
  <img align="center" alt="Torben-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  <img align="right" img width="300rem" alt="Rafa-yoda" src="https://media2.giphy.com/media/b07clVdSOQcSY/giphy.gif">
  <br>
-</div> 
+</div>
 
 <hr/>
  
@@ -39,3 +39,4 @@
 </div>
   
   </center>
+
