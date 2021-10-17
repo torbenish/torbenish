@@ -22,6 +22,7 @@
   <img align="center" alt="Torben-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  <img align="center" alt="Torben-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Torben-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Torben-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="right" img width="300rem" alt="Torben-ghibli" src="https://media2.giphy.com/media/b07clVdSOQcSY/giphy.gif">
  <br>
 </div>
