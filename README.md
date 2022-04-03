@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torben Ishii</h1>
-<h3 align="center">Gratuated in Telecommunications Engineering and currently student in Full Stack Developer</h3>
+<h3 align="center">Graduated in Telecommunications Engineering and currently student in Full Stack Developer</h3>
 
 <hr/>
 
@@ -25,6 +25,7 @@
  <img align="center" alt="Torben-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="Torben-AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  <img align="center" alt="Torben-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+ <img align="center" alt="Torben-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />         
  <img align="right" img width="300rem" alt="Torben-ghibli" src="https://media2.giphy.com/media/b07clVdSOQcSY/giphy.gif">
  <br>
 </div>
@@ -41,4 +42,3 @@
 </div>
   
   </center>
-
